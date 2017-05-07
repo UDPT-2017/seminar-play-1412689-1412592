@@ -1,27 +1,27 @@
-# Seminar-UDPT - *Tên đề tài*
+# Seminar-UDPT - *Backend-Play(Scala)*
 
-**Tên đề tài** là một repository trong đề tài tìm hiểu của lớp Ứng dụng phân tán.
+**Backend-Play(Scala)** là một repository trong đề tài tìm hiểu của lớp Ứng dụng phân tán.
 
 Thành viên:
-* [ ] **MSSV1** Tên sinh viên 1 (tên tài khoản github)
-* [ ] **MSSV2** Tên sinh viên 2 (tên tài khoản github)
+* [x] **1412689** Hoàng Thị Bích Vân (1412689)
+* [x] **1412592** Võ Hiếu Trung (VHTrung)
 
-URL: **Link github page**
+URL github page: **https://1412689.github.io/1412689-1412592.github.io/**
 
 ## Yêu cầu
 
 Sinh viên check vào các mục bên dưới và ghi mã sinh viên đã làm vào chức năng theo mẫu. Mục nào ko có MSSV là tính điểm theo nhóm. Cần sắp xếp các chức năng bên dưới theo thứ tự MSSV đã thực hiện.
 
 Yêu cầu **GIT**
-* [ ] Có sử dụng GIT.
+* [x] Có sử dụng GIT.
 * [ ] Sử dụng GIT theo Centralized Workflow.
-* [ ] Sử dụng GIT theo Feature Branch Workflow.
+* [x] Sử dụng GIT theo Feature Branch Workflow.
 * [ ] Sử dụng GIT theo Gitflow Workflow.
 
 Yêu cầu **bắt buộc**
 * [ ] Source code demo
 * [ ] Slide thuyết trình
-* [ ] Tạo github page để viết lại báo cáo cho nội dung đề tài tìm hiểu
+* [x] Tạo github page để viết lại báo cáo cho nội dung đề tài tìm hiểu
 
 Các **nội dung lý thuyết** dự định tìm hiểu. Nhóm liệt kê các nội dung đã làm được vào bên dưới và check vào các nội dung đã tìm hiểu được.
 * [ ] Nội dung 1
